@@ -88,10 +88,3 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 - Utilizes date and time functions to keep track of transactions and account activities.
 
-
-- [YouTube](https://www.youtube.com/@itsmohitcodes)
-- [Telegram](https://t.me/itsmohitcodes)
-- [Instagram](https://www.instagram.com/itsmohit.codes)
-- [LinkedIn](https://www.linkedin.com/in/itsmohitprajapat/)
-
-Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
