@@ -39,7 +39,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
     pip install mysql-connector-python
     ```
 2. Clone the repository:
-    ```
+    ```https://github.com/HarbirSinghSandhu/Harbir-Bank-Project
 3. Navigate to the project directory:
     ```bash
     cd Python-Bank-Project
