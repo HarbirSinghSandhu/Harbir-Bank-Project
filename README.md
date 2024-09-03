@@ -41,8 +41,8 @@ Ensure you have Python installed on your system. You can download it from [pytho
 2. Clone the repository:
     ```bash
   cd https://github.com/HarbirSinghSandhu/Harbir-Bank-Project.git
-    ```
-4. Navigate to the project directory:
+     ```  
+3. Navigate to the project directory:
     ```bash
     cd Harbir-Bank-Project
     ```
